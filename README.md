@@ -1,3 +1,5 @@
+This is fork form  ottofeller/epubjs-rn. Thanks for his support
+
 Epub.js React Native Components
 ================================
 
