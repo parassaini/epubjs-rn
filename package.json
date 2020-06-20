@@ -2,7 +2,7 @@
   "name": "@parassaini/epubjs-rn",
   "version": "0.2.37",
   "repository": "https://github.com/parassaini/epubjs-rn",
-  "main": "./components/index.js",
+  "main": "./src/index.js",
   "private": false,
   "scripts": {
     "start": "node EpubReader/node_modules/react-native/local-cli/cli.js start",
